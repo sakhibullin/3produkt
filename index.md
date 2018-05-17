@@ -85,7 +85,7 @@ border-radius:10%;
         top: 2vw;
         left:80vw;
          "> Главная</a>
-                  <a href="https://sakhibullin.github.io/Komp3.github.io/" style="color:#Fff;
+                  <a href="https://alsou-kadyrova.github.io/Basket.html" style="color:#Fff;
         position: absolute;
         top: 2vw;
         left:75vw;
